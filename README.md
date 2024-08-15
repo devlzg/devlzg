@@ -1,16 +1,15 @@
-## Hi there 👋
+## Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
 
-<!--
-**ynglzg/ynglzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, e tô em busca do meu primeiro estágio.
+- 🐍 Ultimamento tenho focado em estudar o framework Django, do Python!
+- 🔗 Linkedin: https://www.linkedin.com/in/lzgdev/
+- 📍 Brasília - DF
+- 🤠 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+## Tecnologias que já uso: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou aprendendo atualmente: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
