@@ -4,7 +4,6 @@
 - 🐍 Ultimamento tenho focado em estudar o framework Django, do Python!
 - 🔗 Linkedin: https://www.linkedin.com/in/lzgdev/
 - 📍 Brasília - DF
-- 🤠 Pronomes: ele/dele
 
 ## Tecnologias que já uso: 
 <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> <img height='100px' width='100px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
