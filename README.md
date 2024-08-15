@@ -1,4 +1,4 @@
-## Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
+# Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
 
 - 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, e tô em busca do meu primeiro estágio.
 - 🐍 Ultimamento tenho focado em estudar o framework Django, do Python!
