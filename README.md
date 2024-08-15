@@ -1,7 +1,5 @@
 ## Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
 
-<img height='100px' width='100px' src='https://tenor.com/view/meme-gif-1105617598331461830'/>
-
 - 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, e tô em busca do meu primeiro estágio.
 - 🐍 Ultimamento tenho focado em estudar o framework Django, do Python!
 - 🔗 Linkedin: https://www.linkedin.com/in/lzgdev/
