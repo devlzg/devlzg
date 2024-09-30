@@ -1,10 +1,10 @@
 # Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
-## Meu repositório ainda está em desenvolvimento, mas vou deixar aqui algumas informações sobre mim:
+## Meu portfólio ainda está em desenvolvimento, mas vou deixar aqui algumas informações sobre mim:
 
-- 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, e tô em busca do meu primeiro estágio.
-- 🐍 Ultimamento tenho focado em estudar o framework Django, do Python e Linux!
+- 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, focado em construir alguns projetos pessoais.
+- 🐍 Ultimamento tenho focado em estudar o framework Django e Linux!
 - 🔗 Linkedin: https://www.linkedin.com/in/lzgdev/
-- 📍 Brasília - DF
+- 📍 DF
 
 ## Tecnologias que já uso: 
 <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" /> <img height='100px' width='100px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
