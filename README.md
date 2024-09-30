@@ -1,4 +1,5 @@
 # Eae! Me chamo Luiz, bem vindo(a) ao meu perfil! 👋
+## Meu repositório ainda está em desenvolvimento, mas vou deixar aqui algumas informações sobre mim:
 
 - 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 4º semestre, e tô em busca do meu primeiro estágio.
 - 🐍 Ultimamento tenho focado em estudar o framework Django, do Python e Linux!
@@ -16,7 +17,7 @@
           
           
 ## Tecnologias que pretendo aprender:
-<img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />  <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           
 
 ##
