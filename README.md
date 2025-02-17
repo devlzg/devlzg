@@ -13,8 +13,3 @@
 
 ## Tecnologias que estou aprendendo atualmente: 
 <img height='100px' width='100px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-          
-          
-## Tecnologias que pretendo aprender:
-
