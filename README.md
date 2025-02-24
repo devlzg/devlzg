@@ -2,7 +2,7 @@
 ## Meu portfólio ainda está em desenvolvimento, mas vou deixar aqui algumas informações sobre mim:
 
 - 👨‍🎓 Faço Ciência da Computação na UDF, atualmente no 5º semestre.
-- 🐍 Ultimamento tenho focado em estudar o framework React, pois estou trabalhando com desenvolvimento web no meu estágio!
+- 🐍 Ultimamento tenho focado em estudar React, porque tô usando no estágio!
 - 🔗 Linkedin: https://www.linkedin.com/in/lzgdev/
 - 📍 DF
 
